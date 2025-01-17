@@ -53,7 +53,7 @@ def visualdata():
 
 while True:
     print("enter a choice: \n 1.Log Expenses\n2.Analyse Data\n3.Visualize Data\n4.User friendly navigation")
-    choice=int(input("enter achoice"))
+    choice=int(input("enter a choice"))
     if choice==1:
         logexpense()
     elif choice==2:
